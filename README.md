@@ -1,1 +1,1 @@
-# CNN_for_CIFAR-10
+# In this project, deep convolution neuron network in PyTorch with CUDA module has been applied to train CIFAR-10 dataset. We expored several different architecture like resnet and used several tuning methods like dropout and batchnormalization with basic methods like relu and maxpooling and our final accuracy is 86.5% for validation set(we leave 10% of the training set for validation). 
